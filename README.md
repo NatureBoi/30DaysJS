@@ -138,3 +138,18 @@ fetch(endpoint)
 .then(data => cities.push(...data))
 
 
+## Project 6
+Today I we covered a few more Array Methods
+.some() .every() .find() .findIndex()
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some
+.some() checks an array of items to see if one element in the array passes the given test.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every
+.every() checks an array of items to see if every element in the array passes the given test.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
+.find() returns the value of the first element in the array that passes the given test.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex
+.findIndex() returns the index of the element in the arrray that passes the test.
